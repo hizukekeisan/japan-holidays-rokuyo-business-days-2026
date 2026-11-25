@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this Japanese holidays, JST Rokuyo, or business-day reference dataset or engine, please cite it as below."
+title: "japan-holidays-rokuyo-business-days-2026"
+version: "2026.1.0"
+date-released: "2026-11-25"
+license: MIT
+url: "https://hizukekeisan.com/"
+repository-code: "https://github.com/hizukekeisan/japan-holidays-rokuyo-business-days-2026"
+authors:
+  - name: "HizukeKeisanJP Maintainers"
+keywords:
+  - japan
+  - japanese-holidays
+  - rokuyo
+  - business-days
+  - lunar-calendar
+  - open-data
+  - calculation-engine
+abstract: "Open structured reference datasets (JSON/CSV) for Japan Cabinet Office national holidays (2024-2028) and JST Tenpo-reki lunar new moons (2019-2033), plus a zero-dependency ESM calculation engine for Rokuyo, Tenshanichi, Civil Code Art. 140 period counting, and business days (hizukekeisan.com)."

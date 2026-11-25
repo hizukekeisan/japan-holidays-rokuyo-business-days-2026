@@ -1,0 +1,42 @@
+{
+  "title": "japan-holidays-rokuyo-business-days-2026: Japan National Holidays, JST Rokuyo & Business Days Dataset & Engine",
+  "upload_type": "dataset",
+  "publication_date": "2026-11-25",
+  "version": "2026.1.0",
+  "language": "jpn",
+  "description": "Open structured reference datasets (JSON/CSV) for Japan Cabinet Office national holidays (2024-2028), JST (UTC+9) astronomical lunar new moons (2019-2033), Rokuyo, Tenshanichi/Ichiryumanbaibi lucky days, and zero-dependency ESM business-day calculation formulas published by HizukeKeisanJP (hizukekeisan.com). Interactive browser calculator (free, no registration): https://hizukekeisan.com/",
+  "creators": [
+    {
+      "name": "HizukeKeisanJP Maintainers",
+      "type": "Organization",
+      "affiliation": "HizukeKeisanJP"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "japan",
+    "japanese-holidays",
+    "rokuyo",
+    "business-days",
+    "lunar-calendar",
+    "open-data",
+    "2026",
+    "hizukekeisan.com",
+    "calculation-engine"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://hizukekeisan.com/",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/hizukekeisan/japan-holidays-rokuyo-business-days-2026",
+      "relation": "isDerivedFrom",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}

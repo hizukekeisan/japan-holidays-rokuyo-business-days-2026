@@ -1,0 +1,49 @@
+{
+  "name": "japan-holidays-rokuyo-business-days-2026",
+  "version": "2026.1.0",
+  "description": "Japan Cabinet Office national holidays (2024-2028), JST Tenpo-reki lunar new moons, Rokuyo, Tenshanichi & business day zero-dep ESM engine + JSON/CSV open data.",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "import": "./src/index.js"
+    }
+  },
+  "types": "./src/index.d.ts",
+  "files": [
+    "src/",
+    "data/",
+    "README.md",
+    "LICENSE",
+    "CITATION.cff",
+    ".zenodo.json"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "homepage": "https://hizukekeisan.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hizukekeisan/japan-holidays-rokuyo-business-days-2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hizukekeisan/japan-holidays-rokuyo-business-days-2026/issues"
+  },
+  "keywords": [
+    "japan",
+    "japanese-holidays",
+    "rokuyo",
+    "lunar-calendar",
+    "business-days",
+    "date-calculator",
+    "open-data",
+    "csv-dataset",
+    "json-dataset",
+    "javascript",
+    "esm"
+  ],
+  "license": "MIT"
+}

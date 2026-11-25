@@ -1,0 +1,829 @@
+{
+  "source": "Cabinet Office of Japan (内閣府「国民の祝日」について)",
+  "source_url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+  "official_csv_url": "https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv",
+  "coverage": "2024-2027 confirmed; 2028 projected under National Holidays Act",
+  "updated_at": "2026-11-25",
+  "count": 91,
+  "holidays": [
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name": "元日",
+      "official_name": "元日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-01-08",
+      "year": 2024,
+      "name": "成人の日",
+      "official_name": "成人の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-02-11",
+      "year": 2024,
+      "name": "建国記念の日",
+      "official_name": "建国記念の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-02-12",
+      "year": 2024,
+      "name": "振替休日（建国記念の日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-02-23",
+      "year": 2024,
+      "name": "天皇誕生日",
+      "official_name": "天皇誕生日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-03-20",
+      "year": 2024,
+      "name": "春分の日",
+      "official_name": "春分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-04-29",
+      "year": 2024,
+      "name": "昭和の日",
+      "official_name": "昭和の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-05-03",
+      "year": 2024,
+      "name": "憲法記念日",
+      "official_name": "憲法記念日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-05-04",
+      "year": 2024,
+      "name": "みどりの日",
+      "official_name": "みどりの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-05-05",
+      "year": 2024,
+      "name": "こどもの日",
+      "official_name": "こどもの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-05-06",
+      "year": 2024,
+      "name": "振替休日（こどもの日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-07-15",
+      "year": 2024,
+      "name": "海の日",
+      "official_name": "海の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-08-11",
+      "year": 2024,
+      "name": "山の日",
+      "official_name": "山の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-08-12",
+      "year": 2024,
+      "name": "振替休日（山の日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-09-16",
+      "year": 2024,
+      "name": "敬老の日",
+      "official_name": "敬老の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-09-22",
+      "year": 2024,
+      "name": "秋分の日",
+      "official_name": "秋分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-09-23",
+      "year": 2024,
+      "name": "振替休日（秋分の日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-10-14",
+      "year": 2024,
+      "name": "スポーツの日",
+      "official_name": "スポーツの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-11-03",
+      "year": 2024,
+      "name": "文化の日",
+      "official_name": "文化の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-11-04",
+      "year": 2024,
+      "name": "振替休日（文化の日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2024-11-23",
+      "year": 2024,
+      "name": "勤労感謝の日",
+      "official_name": "勤労感謝の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name": "元日",
+      "official_name": "元日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-01-13",
+      "year": 2025,
+      "name": "成人の日",
+      "official_name": "成人の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-02-11",
+      "year": 2025,
+      "name": "建国記念の日",
+      "official_name": "建国記念の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-02-23",
+      "year": 2025,
+      "name": "天皇誕生日",
+      "official_name": "天皇誕生日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-02-24",
+      "year": 2025,
+      "name": "振替休日（天皇誕生日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-03-20",
+      "year": 2025,
+      "name": "春分の日",
+      "official_name": "春分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-04-29",
+      "year": 2025,
+      "name": "昭和の日",
+      "official_name": "昭和の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-05-03",
+      "year": 2025,
+      "name": "憲法記念日",
+      "official_name": "憲法記念日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-05-04",
+      "year": 2025,
+      "name": "みどりの日",
+      "official_name": "みどりの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-05-05",
+      "year": 2025,
+      "name": "こどもの日",
+      "official_name": "こどもの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-05-06",
+      "year": 2025,
+      "name": "振替休日（みどりの日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-07-21",
+      "year": 2025,
+      "name": "海の日",
+      "official_name": "海の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-08-11",
+      "year": 2025,
+      "name": "山の日",
+      "official_name": "山の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-09-15",
+      "year": 2025,
+      "name": "敬老の日",
+      "official_name": "敬老の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-09-23",
+      "year": 2025,
+      "name": "秋分の日",
+      "official_name": "秋分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-10-13",
+      "year": 2025,
+      "name": "スポーツの日",
+      "official_name": "スポーツの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-11-03",
+      "year": 2025,
+      "name": "文化の日",
+      "official_name": "文化の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-11-23",
+      "year": 2025,
+      "name": "勤労感謝の日",
+      "official_name": "勤労感謝の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2025-11-24",
+      "year": 2025,
+      "name": "振替休日（勤労感謝の日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name": "元日",
+      "official_name": "元日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-01-12",
+      "year": 2026,
+      "name": "成人の日",
+      "official_name": "成人の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-02-11",
+      "year": 2026,
+      "name": "建国記念の日",
+      "official_name": "建国記念の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-02-23",
+      "year": 2026,
+      "name": "天皇誕生日",
+      "official_name": "天皇誕生日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-03-20",
+      "year": 2026,
+      "name": "春分の日",
+      "official_name": "春分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-04-29",
+      "year": 2026,
+      "name": "昭和の日",
+      "official_name": "昭和の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-05-03",
+      "year": 2026,
+      "name": "憲法記念日",
+      "official_name": "憲法記念日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-05-04",
+      "year": 2026,
+      "name": "みどりの日",
+      "official_name": "みどりの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-05-05",
+      "year": 2026,
+      "name": "こどもの日",
+      "official_name": "こどもの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-05-06",
+      "year": 2026,
+      "name": "振替休日（憲法記念日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-07-20",
+      "year": 2026,
+      "name": "海の日",
+      "official_name": "海の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-08-11",
+      "year": 2026,
+      "name": "山の日",
+      "official_name": "山の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-09-21",
+      "year": 2026,
+      "name": "敬老の日",
+      "official_name": "敬老の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-09-22",
+      "year": 2026,
+      "name": "国民の休日（シルバーウィーク）",
+      "official_name": "休日",
+      "is_substitute": false,
+      "is_citizens_holiday": true,
+      "is_projected": false
+    },
+    {
+      "date": "2026-09-23",
+      "year": 2026,
+      "name": "秋分の日",
+      "official_name": "秋分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-10-12",
+      "year": 2026,
+      "name": "スポーツの日",
+      "official_name": "スポーツの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-11-03",
+      "year": 2026,
+      "name": "文化の日",
+      "official_name": "文化の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2026-11-23",
+      "year": 2026,
+      "name": "勤労感謝の日",
+      "official_name": "勤労感謝の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-01-01",
+      "year": 2027,
+      "name": "元日",
+      "official_name": "元日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-01-11",
+      "year": 2027,
+      "name": "成人の日",
+      "official_name": "成人の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-02-11",
+      "year": 2027,
+      "name": "建国記念の日",
+      "official_name": "建国記念の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-02-23",
+      "year": 2027,
+      "name": "天皇誕生日",
+      "official_name": "天皇誕生日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-03-21",
+      "year": 2027,
+      "name": "春分の日",
+      "official_name": "春分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-03-22",
+      "year": 2027,
+      "name": "振替休日（春分の日）",
+      "official_name": "休日",
+      "is_substitute": true,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-04-29",
+      "year": 2027,
+      "name": "昭和の日",
+      "official_name": "昭和の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-05-03",
+      "year": 2027,
+      "name": "憲法記念日",
+      "official_name": "憲法記念日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-05-04",
+      "year": 2027,
+      "name": "みどりの日",
+      "official_name": "みどりの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-05-05",
+      "year": 2027,
+      "name": "こどもの日",
+      "official_name": "こどもの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-07-19",
+      "year": 2027,
+      "name": "海の日",
+      "official_name": "海の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-08-11",
+      "year": 2027,
+      "name": "山の日",
+      "official_name": "山の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-09-20",
+      "year": 2027,
+      "name": "敬老の日",
+      "official_name": "敬老の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-09-23",
+      "year": 2027,
+      "name": "秋分の日",
+      "official_name": "秋分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-10-11",
+      "year": 2027,
+      "name": "スポーツの日",
+      "official_name": "スポーツの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-11-03",
+      "year": 2027,
+      "name": "文化の日",
+      "official_name": "文化の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2027-11-23",
+      "year": 2027,
+      "name": "勤労感謝の日",
+      "official_name": "勤労感謝の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": false
+    },
+    {
+      "date": "2028-01-01",
+      "year": 2028,
+      "name": "元日",
+      "official_name": "元日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-01-10",
+      "year": 2028,
+      "name": "成人の日",
+      "official_name": "成人の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-02-11",
+      "year": 2028,
+      "name": "建国記念の日",
+      "official_name": "建国記念の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-02-23",
+      "year": 2028,
+      "name": "天皇誕生日",
+      "official_name": "天皇誕生日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-03-20",
+      "year": 2028,
+      "name": "春分の日",
+      "official_name": "春分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-04-29",
+      "year": 2028,
+      "name": "昭和の日",
+      "official_name": "昭和の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-05-03",
+      "year": 2028,
+      "name": "憲法記念日",
+      "official_name": "憲法記念日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-05-04",
+      "year": 2028,
+      "name": "みどりの日",
+      "official_name": "みどりの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-05-05",
+      "year": 2028,
+      "name": "こどもの日",
+      "official_name": "こどもの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-07-17",
+      "year": 2028,
+      "name": "海の日",
+      "official_name": "海の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-08-11",
+      "year": 2028,
+      "name": "山の日",
+      "official_name": "山の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-09-18",
+      "year": 2028,
+      "name": "敬老の日",
+      "official_name": "敬老の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-09-22",
+      "year": 2028,
+      "name": "秋分の日",
+      "official_name": "秋分の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-10-09",
+      "year": 2028,
+      "name": "スポーツの日",
+      "official_name": "スポーツの日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-11-03",
+      "year": 2028,
+      "name": "文化の日",
+      "official_name": "文化の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    },
+    {
+      "date": "2028-11-23",
+      "year": 2028,
+      "name": "勤労感謝の日",
+      "official_name": "勤労感謝の日",
+      "is_substitute": false,
+      "is_citizens_holiday": false,
+      "is_projected": true
+    }
+  ]
+}

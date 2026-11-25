@@ -1,0 +1,226 @@
+{
+  "updated_at": "2026-11-25",
+  "rokuyo_formula": "ROKUYO_ORDER[(lunar_month + lunar_day) % 6]",
+  "rokuyo_order": [
+    "大安",
+    "赤口",
+    "先勝",
+    "友引",
+    "先負",
+    "仏滅"
+  ],
+  "rokuyo_metadata": {
+    "大安": {
+      "reading": "たいあん",
+      "short": "終日吉・万事に最良",
+      "lucky_time": "終日吉",
+      "tone": "best"
+    },
+    "友引": {
+      "reading": "ともびき",
+      "short": "朝夕吉・慶事に好適（正午凶）",
+      "lucky_time": "朝・夕が吉",
+      "tone": "good"
+    },
+    "先勝": {
+      "reading": "せんしょう",
+      "short": "午前中が吉・急用向き",
+      "lucky_time": "午前が吉",
+      "tone": "good"
+    },
+    "先負": {
+      "reading": "せんぶ",
+      "short": "午後が吉・控えめに行動",
+      "lucky_time": "午後が吉",
+      "tone": "neutral"
+    },
+    "赤口": {
+      "reading": "しゃっこう",
+      "short": "正午のみ吉（11時〜13時）",
+      "lucky_time": "正午のみ吉",
+      "tone": "caution"
+    },
+    "仏滅": {
+      "reading": "ぶつめつ",
+      "short": "終日控えめ・物事の区切りに",
+      "lucky_time": "終日控えめ",
+      "tone": "caution"
+    }
+  },
+  "tenshanichi_rules": [
+    {
+      "season": "春（立春〜立夏前）",
+      "setsugetsu": [
+        1,
+        2,
+        3
+      ],
+      "kanshi": "戊寅",
+      "sexagenary_index": 14
+    },
+    {
+      "season": "夏（立夏〜立秋前）",
+      "setsugetsu": [
+        4,
+        5,
+        6
+      ],
+      "kanshi": "甲午",
+      "sexagenary_index": 30
+    },
+    {
+      "season": "秋（立秋〜立冬前）",
+      "setsugetsu": [
+        7,
+        8,
+        9
+      ],
+      "kanshi": "戊申",
+      "sexagenary_index": 44
+    },
+    {
+      "season": "冬（立冬〜立春前）",
+      "setsugetsu": [
+        10,
+        11,
+        12
+      ],
+      "kanshi": "甲子",
+      "sexagenary_index": 0
+    }
+  ],
+  "ichiryumanbaibi_by_setsugetsu": {
+    "1": {
+      "setsu": "立春（寅月）",
+      "branches": [
+        "丑",
+        "午"
+      ],
+      "branch_indices": [
+        1,
+        6
+      ]
+    },
+    "2": {
+      "setsu": "啓蟄（卯月）",
+      "branches": [
+        "酉",
+        "寅"
+      ],
+      "branch_indices": [
+        9,
+        2
+      ]
+    },
+    "3": {
+      "setsu": "清明（辰月）",
+      "branches": [
+        "子",
+        "卯"
+      ],
+      "branch_indices": [
+        0,
+        3
+      ]
+    },
+    "4": {
+      "setsu": "立夏（巳月）",
+      "branches": [
+        "卯",
+        "辰"
+      ],
+      "branch_indices": [
+        3,
+        4
+      ]
+    },
+    "5": {
+      "setsu": "芒種（午月）",
+      "branches": [
+        "巳",
+        "午"
+      ],
+      "branch_indices": [
+        5,
+        6
+      ]
+    },
+    "6": {
+      "setsu": "小暑（未月）",
+      "branches": [
+        "午",
+        "酉"
+      ],
+      "branch_indices": [
+        6,
+        9
+      ]
+    },
+    "7": {
+      "setsu": "立秋（申月）",
+      "branches": [
+        "子",
+        "未"
+      ],
+      "branch_indices": [
+        0,
+        7
+      ]
+    },
+    "8": {
+      "setsu": "白露（酉月）",
+      "branches": [
+        "卯",
+        "申"
+      ],
+      "branch_indices": [
+        3,
+        8
+      ]
+    },
+    "9": {
+      "setsu": "寒露（戌月）",
+      "branches": [
+        "午",
+        "酉"
+      ],
+      "branch_indices": [
+        6,
+        9
+      ]
+    },
+    "10": {
+      "setsu": "立冬（亥月）",
+      "branches": [
+        "酉",
+        "戌"
+      ],
+      "branch_indices": [
+        9,
+        10
+      ]
+    },
+    "11": {
+      "setsu": "大雪（子月）",
+      "branches": [
+        "亥",
+        "子"
+      ],
+      "branch_indices": [
+        11,
+        0
+      ]
+    },
+    "12": {
+      "setsu": "小寒（丑月）",
+      "branches": [
+        "卯",
+        "子"
+      ],
+      "branch_indices": [
+        3,
+        0
+      ]
+    }
+  }
+}
